@@ -1,4 +1,6 @@
-Hey there, I'm Umra Mulla 👋
+Hey there, I'm Umra Mulla 👋   
+
+
 🎓 MCA Student | 💻 Python & Django Developer | 🤖 Aspiring AI/ML Developer
 
 Welcome to my GitHub! I'm currently pursuing my Master of Computer Applications (MCA) at IMCC, Pune, and I'm passionate about learning, building, and exploring the world of technology.
